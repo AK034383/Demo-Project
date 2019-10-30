@@ -25,8 +25,8 @@ links Example:
   
   - example
     - example
-      -example
+      - example
       
-[x]example
-[ ] example
-[ ]example
+- [x] example
+- [ ] example
+- [ ] example
